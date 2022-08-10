@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/apolloclientFrontend/static/css/main.b09e26f8.css",
+    "main.js": "/apolloclientFrontend/static/js/main.0185a804.js",
+    "index.html": "/apolloclientFrontend/index.html",
+    "main.b09e26f8.css.map": "/apolloclientFrontend/static/css/main.b09e26f8.css.map",
+    "main.0185a804.js.map": "/apolloclientFrontend/static/js/main.0185a804.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b09e26f8.css",
+    "static/js/main.0185a804.js"
+  ]
+}
